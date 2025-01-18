@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Information</title>
+     
+    </head>
+<body>
+
+<header>
+    <h1>Explore the India</h1>
+    <p>Your go-to travel guide for the best destinations and more!</p>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#destinations">Trips in North</a></li>
+        <li><a href="#blog">Trips in South</a></li>
+        <li><a href="#Trip-Schedule">Trip schedule</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+
+<section class="hero" id="home">
+    <h1>INDIA</h1>
+    <div class="welcome">Welcome to</div>
+    <div class="bottom-text">A country with love &amp; beautiful hearts</div>
+    
+</section> <!--WELCOME-->
+
+<section class="destinations" id="destinations">
+    <div class="destination">
+        <img src="C:\Users\rishi\OneDrive\Desktop\imgs\tej 1.jpg" alt="TAJ MAHAL">
+        <h3>Delhi</h3>
+        <p>The Taj Mahal is one of the most iconic monuments in the world, located in Agra, India.</p>
+    </div>
+    <div class="destination">
+        <img src="C:\Users\rishi\OneDrive\Desktop\imgs\varanasi.jpg" alt="VARANASI">
+        <h3>Varanasi</h3>
+        <p> Varanasi, one of the oldest living cities in the world, is a spiritual hub in India,for its ghats along the Ganges River, where people come to perform religious rituals and seek salvation.</p>
+    </div>
+    <div class="destination">
+        <img src="C:\Users\rishi\OneDrive\Desktop\imgs\pink city.jpg" alt="Destination 3">
+        <h3>Pink city</h3>
+        <p>Jaipur, often referred to as the "Pink City," is renowned for its distinctive pink-hued architecture, vibrant culture, and rich history as the capital of Rajasthan.</p>
+    </div>
+</section> <!--NORTH TRIPS-->
+
+<section class="blog" id="blog">
+    <h2>Trips in south</h2>
+    <div class="blog-posts">
+        <div class="blog-post">
+            <img src="C:\Users\rishi\OneDrive\Desktop\imgs\Ashtamudi lake, Kerala.jpg" alt="kerala">
+            <h3>Kerala</h3>
+            <p> Kerala, known as "God's Own Country," is a picturesque state in southern India famous for its lush landscapes, tranquil backwaters, pristine beaches, and rich cultural heritage.</p>
+        </div>
+        <div class="blog-post">
+            <img src="C:\Users\rishi\OneDrive\Desktop\imgs\ooty.jpg" alt="Ooty">
+            <h3>Ooty</h3>
+            <p> Ooty, also known as Udhagamandalam, is a popular hill station in Tamil Nadu, renowned for its scenic landscapes, cool climate, lush green tea gardens, and charming colonial-era architecture, making it a favored destination for nature lovers and tourists.</p>
+        </div>
+        <div class="blog-post">
+            <img src="C:\Users\rishi\OneDrive\Desktop\imgs\jagannath mandir.jpg" alt="jagannath tempel">
+            <h3>jagannath mandir</h3>
+            <p>The Jagannath Temple, located in Puri, Odisha, is a famous Hindu pilgrimage site dedicated to Lord Jagannath, an incarnation of Lord Vishnu, and is renowned for its grand annual Rath Yatra (Chariot Festival), attracting millions of devotees from around the world.</p>
+        </div>
+    </div>
+</section><br><br><br> <!--SOUHT TRIPS-->
+
+<section class="Trip-Schedule" id="Trip-Schedule">
+    <h2><u>Delhi</u></h2>  
+
+     
+    <div class="TS-box">
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\Taj mahal.jpg" alt="Taj Mahal">
+            </div>
+            <div class="text">
+                <h3>Morning: Visit to Taj Mahal</h3>
+                <p><b>Start your day with a morning visit to the Taj Mahal (8:00 am - 10:00 am).
+                     Arrive early to avoid the crowds and heat. Purchase your tickets online or at the ticket counter to skip the lines. Go through the security check and deposit any prohibited items. 
+                     Spend a couple of hours exploring the stunning architecture, gardens, and reflecting pools.
+                </b></p>
+            </div>
+        </div>
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                 
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\view point tej.png" alt="View Point Taj">
+            </div>
+            <div class="text">
+                <h3>Lunch Break</h3>
+                <p><b>After visiting the Taj Mahal, head to one of the recommended lunch spots (11:00 am - 1:00 pm) for a delicious meal with a view. 
+                    Hotel Saniya Palace or Shankara Vegis are great options. Savor your meal while taking in the breathtaking views of the Taj Mahal. 
+                    Try local specialties, such as Mughlai or North Indian dishes, to experience the authentic flavors of Agra.
+                </b></p>
+            </div>
+        </div>
+
+         
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\Redirect Notice.jpg" alt="Redirect Notice">
+            </div>
+            <div class="text">
+                <h3>Afternoon: Explore Agra</h3>
+                <p><b>In the afternoon (2:00 pm - 5:00 pm), explore the city of Agra. 
+                    Visit the Agra Fort, a UNESCO World Heritage Site and former residence of the Mughal emperors. 
+                    Wander through the fort's impressive architecture, gardens, and museums. Stop by the Jama Masjid, one of the largest mosques in India, and explore the local markets, such as the Kinari Bazaar or the Sadar Bazaar. 
+                    Try some local street food to satisfy your cravings.
+                </b></p>
+            </div>
+        </div>
+
+        <div class="marquee">
+            <div class="img">
+               <marquee behavior="scroll" direction="left">
+                    
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\TAJ.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\TAJ 4.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\tej 1.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\TAJ 3.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\TEJ 4.jpg" style="width:230px; height: 330px;">
+               </marquee>
+            </div>
+        </div>
+        
+    </div>
+</section> <!--DELHI TRIP-->
+
+
+<section class="Trip-Schedule" id="Trip-Schedule">
+    <h2><u>Varanasi</u></h2>  
+
+     
+    <div class="TS-box">
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\banarasi.jpg">
+            </div>
+            <div class="text">
+                <h3>Morning: Visit Varanasi</h3>
+                <p><b>Start your day early with a visit to the Ghats of Varanasi (6:00 am - 8:00 am). 
+                    Take a sunrise boat ride along the Ganges River to witness the spiritual beauty of the city. 
+                    Watch the locals perform their morning rituals and prayers along the ghats. You can also take a stroll along the ghats and explore the narrow alleys and streets of Varanasi
+                </b></p>
+            </div>
+        </div>
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                 
+                <img src="C:\Users\rishi\Downloads\Varanasi.jpg">
+            </div>
+            <div class="text">
+                <h3>Lunch Break</h3>
+                <p><b> After your morning excursion, head to a rooftop restaurant with a stunning view of the Ganges River and the ghats (12:00 pm - 1:30 pm). Some popular options include the rooftop restaurant at Hotel Ganges Grand, Hotel Hindusthan International, or the Kesar Heritage Hotel. Savor local delicacies such as banarasi thandai, kachoris, and jalebis while taking in the breathtaking views of the city.</b></p>            
+            </div>
+            </div>
+
+         
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\shopping baranasi.jpg">
+            </div>
+            <div class="text">
+                <h3>Afternoon: Explore Varanasi </h3>
+                <p><b>In the afternoon (2:00 pm - 5:00 pm), explore the narrow alleys and streets of Varanasi. Visit the Kashi Vishwanath Temple, one of the most revered Shiva temples in India. Explore the local markets, such as the Vishwanath Gali and the Thatheri Bazaar, to experience the vibrant culture and traditions of Varanasi. You can also visit the Banaras Hindu University, one of the largest residential universities in Asia</b></p>
+            </div>
+        </div>
+
+        <div class="marquee">
+            <div class="img">
+               <marquee behavior="scroll" direction="left">
+                    
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\varanasi 2.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\varanasi 3.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\varanasi 4.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\varanasi 5.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\varanasi 6.jpg" style="width:230px; height: 330px;">
+               </marquee>
+            </div>
+        </div>
+        
+    </div>
+   
+</section> <!--VARASANI TRIP-->
+
+
+<section class="Trip-Schedule" id="Trip-Schedule">
+    <h2><u>Pink City</u></h2>  
+
+     
+    <div class="TS-box">
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\pink ciry 2.jpg">
+            </div>
+            <div class="text">
+                <h3>Morning: Visit Pink city</h3>
+                <p><b>Start your day early by visiting the iconic Hawa Mahal (6:00 am - 8:00 am), also known as the Palace of Winds. 
+                    This stunning pink sandstone monument is a masterpiece of Rajput architecture. Take a stroll around the nearby markets, such as the Johari Bazaar and the Bapu Bazaar, to experience the vibrant culture and traditions of Jaipur.
+                </b></p>
+            </div>
+        </div>
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                 
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\pink city lunch .jpg">
+            </div>
+            <div class="text">
+                <h3>Lunch Break</h3>
+                <p><b>After your morning excursion, head to a rooftop restaurant with a stunning view of the city (12:00 pm - 1:30 pm). 
+                    Some popular options include the rooftop restaurant at Hotel Narain Niwas Palace, Hotel Samode Haveli, or the Jaipur Modern Kitchen. 
+                    Savor local delicacies such as dal baati churma, laal maans, and ghevar while taking in the breathtaking views of the Pink City.
+                </b></p>
+            </div>
+        </div>
+
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\elephnt ride.jpg">
+            </div>
+            <div class="text">
+                <h3>Afternoon: Explore Varanasi</h3>
+                <p><b>In the afternoon (2:00 pm - 5:00 pm), explore the magnificent Amber Fort, a UNESCO World Heritage Site. 
+                    Take an elephant ride up to the fort, which offers stunning views of the surrounding landscape. 
+                    Visit the Jantar Mantar, an ancient astronomical observatory, and the City Palace, which showcases the rich history and culture of Jaipur. 
+                    Don't forget to try some local street food, such as pyaaz kachoris and mirchi bada, to satisfy your cravings.
+                </b></p>
+            </div>
+        </div>
+
+
+        <div class="marquee">
+            <div class="img">
+               <marquee behavior="scroll" direction="left">
+                    
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\THAR 1.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\THAR 2.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\THAR 3.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\THAR 4.jpg" style="width:230px; height: 330px;">
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\THAR 5.jpg" style="width:230px; height: 330px;">
+               </marquee>
+            </div>
+        </div>
+    </div>
+   
+</section><br><br><br><br><br> <!--PINK CITY-->
+
+
+<section class="Trip-Schedule" id="Trip-Schedule">
+    <h2><u>kerala</u></h2>  
+
+     
+    <div class="TS-box">
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\kerala 2.jpg" >
+            </div>
+            <div class="text">
+                <h3>Morning: Visit Kerala</h3>
+                <p><b>Start your day early with a tranquil boat ride on the backwaters of Alleppey (6:00 am - 8:00 am). 
+                    Watch the sunrise over the lush green landscapes and witness the daily life of the locals. 
+                    You can also visit the Kumarakom Bird Sanctuary, home to a wide variety of migratory birds.
+                </b></p>
+            </div>
+        </div>
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                 
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\kerala 3.jpg">
+            </div>
+            <div class="text">
+                <h3>Lunch Break</h3>
+                <p><b>After your morning excursion, head to a local restaurant with a stunning view of the backwaters (12:00 pm - 1:30 pm). 
+                    Some popular options include the restaurants at the Kumarakom Lake Resort, the Alleppey Beach Resort, or the Houseboat restaurants. 
+                    Savor local delicacies such as karimeen, appam, and stew while taking in the breathtaking views of the backwaters.
+                </b></p>
+            </div>
+        </div>
+
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\kerala 4.jpg">
+            </div>
+            <div class="text">
+                <h3>Afternoon: Explore kerala</h3>
+                <p><b>In the afternoon (2:00 pm - 5:00 pm), explore the scenic hill station of Munnar. 
+                    Visit the Tea Museum to learn about the history of tea plantations in Kerala. 
+                    Take a stroll around the Mattupetty Dam and the Echo Point, which offer stunning views of the surrounding landscapes. 
+                    Don't forget to try some local tea and snacks, such as chai and pazham pori, to satisfy your cravings.
+                </b></p>
+            </div>
+        </div>
+
+
+        <div class="marquee">
+            <div class="img">
+               <marquee behavior="scroll" direction="left">
+                    
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\kerala 5.jpg" style="width:230px; height: 330px;">
+                   <img src= "C:\Users\rishi\OneDrive\Desktop\imgs\kerala 6.jpg" style="width:230px; height: 330px;">
+                   <img src= "C:\Users\rishi\OneDrive\Desktop\imgs\kerala 1.jpg" style="width:230px; height: 330px;">
+                   <img src= "C:\Users\rishi\OneDrive\Desktop\imgs\kerala 9.jpg" style="width:230px; height: 330px;">
+                   <img src= "C:\Users\rishi\OneDrive\Desktop\imgs\kerala 8.jpg" style="width:230px; height: 330px;">
+               </marquee>
+            </div>
+        </div>
+    </div>
+   
+</section> <!--KERALA TRIP-->
+
+
+<section class="Trip-Schedule" id="Trip-Schedule">
+    <h2><u>Ooty</u></h2>  
+
+     
+    <div class="TS-box">
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\ooty1.jpg" >
+            </div>
+            <div class="text">
+                <h3>Morning: Visit Ooty</h3>
+                <p><b>Start your day early with a scenic drive to the Doddabetta Peak (6:00 am - 8:00 am), the highest point in Ooty. 
+                    Watch the sunrise over the lush green Nilgiri Hills and witness the breathtaking views of the surrounding landscape. 
+                    You can also visit the Botanical Garden, home to a wide variety of flora and fauna
+                </b></p>
+            </div>
+        </div>
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                 
+                <img src="C:\Users\rishi\OneDrive\Pictures\Screenshots\ooty2.png">
+            </div>
+            <div class="text">
+                <h3>Lunch Break</h3>
+                <p><b>After your morning excursion, head to a local restaurant with a stunning view of the valley (12:00 pm - 1:30 pm). 
+                    Some popular options include the restaurants at the Fern Hill Palace, the Hotel Darshan, or the Earl's Secret. 
+                    Savor local delicacies such as idlis, dosas, and vadas while taking in the breathtaking views of the valley
+                </b></p>
+            </div>
+        </div>
+
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\ooty3.jpg">
+            </div>
+            <div class="text">
+                <h3>Afternoon: Explore kerala</h3>
+                <p><b>In the afternoon (2:00 pm - 5:00 pm), explore the scenic Ooty Lake, a popular spot for boating and fishing. 
+                    Take a stroll around the lake and enjoy the picturesque views of the surrounding hills. You can also visit the nearby Deer Park and the Government Museum to learn about the history and culture of Ooty. 
+                    Don't forget to try some local tea and snacks, such as chai and homemade chocolates, to satisfy your cravings.
+                </b></p>
+            </div>
+        </div>
+
+
+        <div class="marquee">
+            <div class="img">
+               <marquee behavior="scroll" direction="left">
+                    
+                   <img src="C:\Users\rishi\OneDrive\Desktop\imgs\ooty4.jpg" style="width:230px; height: 330px;">
+                   <img src= "C:\Users\rishi\OneDrive\Desktop\imgs\ooty5.jpg" style="width:230px; height: 330px;">
+                   <img src= "C:\Users\rishi\OneDrive\Desktop\imgs\ooty9.jpg" style="width:230px; height: 330px;">
+                   <img src= "C:\Users\rishi\OneDrive\Desktop\imgs\ooty6.jpg" style="width:230px; height: 330px;">
+                   <img src=  "C:\Users\rishi\OneDrive\Desktop\imgs\ooty7.jpg"style="width:230px; height: 330px;">
+               </marquee>
+            </div>
+        </div>
+    </div>
+</section> <!--OOTY TRIP-->
+
+
+<section class="Trip-Schedule" id="Trip-Schedule">
+    <h2><u>Jagannath mandir</u></h2>  
+
+     
+    <div class="TS-box">
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\Jagannath mandir1.jpg" >
+            </div>
+            <div class="text">
+                <h3>Morning: Visit Jagannath mandir </h3>
+                <p><b>Start your day early with a visit to the Jagannath Temple (6:00 am - 8:00 am), one of the most sacred Hindu temples in India. 
+                    Watch the sunrise over the majestic temple structure and witness the daily rituals and prayers. 
+                    Take a stroll around the temple complex and explore the various shrines and mandapas.
+                </b></p>
+            </div>
+        </div>
+
+        
+        <div class="schedule-item">
+            <div class="image">
+                 
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\Jagannath mandir2.jpg">
+            </div>
+            <div class="text">
+                <h3> Lunch Break</h3>
+                <p><b>After your morning darshan, head to a local restaurant near the temple (12:00 pm - 1:30 pm) to savor some delicious Odia cuisine. 
+                    Try some local specialties like khichdi, dalma, and kanika while taking in the vibrant atmosphere of the temple town. 
+                    Some popular restaurants include the Jagannath Temple Canteen, the Puri Hotel, or the Loknath Restaurant.
+                </b></p>
+            </div>
+        </div>
+
+        <div class="schedule-item">
+            <div class="image">
+                
+                <img src="C:\Users\rishi\OneDrive\Desktop\imgs\Jagannath mandir3.jpg">
+            </div>
+            <div class="text">
+                <h3>Afternoon: Explore Jagannath mandir </h3>
+                <p><b>In the afternoon (2:00 pm - 5:00 pm), explore the nearby Bada Danda, a bustling marketplace filled with colorful shops and stalls selling everything from souvenirs to local handicrafts. 
+                    Take a stroll along the beach and enjoy the sunset over the Bay of Bengal. You can also visit the nearby Gundicha Temple, a sacred spot where Lord Jagannath is said to rest during the annual Rath Yatra festival.
+                </b></p>
+            </div>
+        </div>
+
+
+        <div class="marquee">
+            <div class="img">
+               <marquee behavior="scroll" direction="left">
+                    
+                   <img src= "C:\Users\rishi\OneDrive\Desktop\imgs\Jagannath mandir4jpg.jpg"style="width:230px; height: 330px;">
+                   <img src=  "C:\Users\rishi\OneDrive\Desktop\imgs\Jagannath mandir7.jpg" style="width:230px; height: 330px;">
+                   <img src= "C:\Users\rishi\OneDrive\Desktop\imgs\Jagannath mandir6jpg.jpg" style="width:230px; height: 330px;">
+                   <img src= "C:\Users\rishi\OneDrive\Desktop\imgs\Jagannath mandir5jpg.jpg" style="width:230px; height: 330px;">
+                   <img src=  "C:\Users\rishi\OneDrive\Desktop\imgs\Jagannath mandir8.jpg"style="width:230px; height: 330px;">
+               </marquee>
+            </div>
+        </div>
+    </div>
+   
+</section> <!--JAGANNATH MANDIR TRIP-->
+
+
+<footer id="contact">
+    <p>Contact us at: exploretheindia@gmail.com</p>
+    <p>&copy; 2025 Explore the India. All rights reserved.</p>
+</footer>
+</body>
+</html>
